@@ -19,3 +19,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+<h3 align="left">in case you need to find me, discord is SiruX21</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/syrus-tolentino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syrus Tolentino" height="30" width="40" /></a>
+<a href="https://instagram.com/syrustolentino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syrustolentino" height="30" width="40" /></a>
+</p>
