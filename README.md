@@ -15,7 +15,7 @@
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=SiruX21&&style=flat-square" align="center" /> </div>
 
 
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiruX21&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Syrus' Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiruX21&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
